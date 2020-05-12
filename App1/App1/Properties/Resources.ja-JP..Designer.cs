@@ -68,5 +68,14 @@ namespace App1.Properties {
                 return ResourceManager.GetString("String1", resourceCulture);
             }
         }
+        
+        /// <summary>
+        ///   閉じる に類似しているローカライズされた文字列を検索します。
+        /// </summary>
+        internal static string String2 {
+            get {
+                return ResourceManager.GetString("String2", resourceCulture);
+            }
+        }
     }
 }
