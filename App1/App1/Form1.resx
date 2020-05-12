@@ -117,4 +117,132 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="TestLabel.Text" xml:space="preserve">
+    <value>label1</value>
+  </data>
+  <data name="$this.Text" xml:space="preserve">
+    <value>Form1</value>
+  </data>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
+    <value>800, 450</value>
+  </data>
+  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
+    <value>8, 15</value>
+  </data>
+  <data name="&gt;&gt;EnButton.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;TestLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="OpenModalButton.Location" type="System.Drawing.Point, System.Drawing">
+    <value>213, 324</value>
+  </data>
+  <data name="&gt;&gt;EnButton.Name" xml:space="preserve">
+    <value>EnButton</value>
+  </data>
+  <data name="OpenModalButton.Size" type="System.Drawing.Size, System.Drawing">
+    <value>308, 85</value>
+  </data>
+  <data name="&gt;&gt;$this.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Form, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="EnButton.Font" type="System.Drawing.Font, System.Drawing">
+    <value>MS UI Gothic, 16pt</value>
+  </data>
+  <data name="&gt;&gt;$this.Name" xml:space="preserve">
+    <value>Form1</value>
+  </data>
+  <data name="&gt;&gt;TestLabel.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;OpenModalButton.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="JaButton.Location" type="System.Drawing.Point, System.Drawing">
+    <value>377, 223</value>
+  </data>
+  <data name="&gt;&gt;JaButton.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;JaButton.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;EnButton.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;TestLabel.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;OpenModalButton.Name" xml:space="preserve">
+    <value>OpenModalButton</value>
+  </data>
+  <data name="&gt;&gt;OpenModalButton.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="JaButton.Font" type="System.Drawing.Font, System.Drawing">
+    <value>MS UI Gothic, 16pt</value>
+  </data>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="EnButton.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;OpenModalButton.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;EnButton.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="TestLabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>297, 94</value>
+  </data>
+  <data name="OpenModalButton.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;JaButton.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="OpenModalButton.Font" type="System.Drawing.Font, System.Drawing">
+    <value>MS UI Gothic, 16pt</value>
+  </data>
+  <data name="JaButton.Size" type="System.Drawing.Size, System.Drawing">
+    <value>164, 60</value>
+  </data>
+  <data name="JaButton.Text" xml:space="preserve">
+    <value>日本語</value>
+  </data>
+  <data name="EnButton.Location" type="System.Drawing.Point, System.Drawing">
+    <value>159, 223</value>
+  </data>
+  <data name="TestLabel.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="TestLabel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>96, 34</value>
+  </data>
+  <data name="JaButton.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="TestLabel.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="EnButton.Text" xml:space="preserve">
+    <value>English</value>
+  </data>
+  <data name="EnButton.Size" type="System.Drawing.Size, System.Drawing">
+    <value>164, 60</value>
+  </data>
+  <data name="&gt;&gt;JaButton.Name" xml:space="preserve">
+    <value>JaButton</value>
+  </data>
+  <data name="&gt;&gt;TestLabel.Name" xml:space="preserve">
+    <value>TestLabel</value>
+  </data>
+  <data name="TestLabel.Font" type="System.Drawing.Font, System.Drawing">
+    <value>MS UI Gothic, 20pt</value>
+  </data>
+  <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
 </root>
